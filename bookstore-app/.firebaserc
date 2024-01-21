@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "default": "online-bookstore-e6acf"
+  },
+  "targets": {},
+  "etags": {
+    "online-bookstore-e6acf": {
+      "extensionInstances": {}
+    }
+  }
+}
